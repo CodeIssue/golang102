@@ -1,3 +1,3 @@
-module cli-tool
+module src/guessingGame
 
 go 1.17
